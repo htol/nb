@@ -1,4 +1,4 @@
-module nb
+module github.com/htol/nb
 
 go 1.13
 
