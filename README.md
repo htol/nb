@@ -16,3 +16,9 @@ Which mean find in dcim devices which name conatain "lab" and role is "rr"
  - agg /api/ipam/aggregates/
  - dev /api/dcim/devices/
  - vm /api/virtualization/virtual-machines/
+
+## TODO:
+
+- [ ] Move api endpoints and its aliases to confiuration file
+- [ ] Add default hostname to config file
+- [ ] Add auth if there will be demand
