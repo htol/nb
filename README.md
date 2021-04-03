@@ -1,4 +1,4 @@
-# nb
+# nb (NetBox client)
 
 ## Usage:
 Basic console NetBox client. This tool much faster than web ui to retrive few lines of information.
